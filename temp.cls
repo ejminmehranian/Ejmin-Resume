@@ -7,10 +7,10 @@
 \ProcessOptions\relax
 \LoadClass{scrartcl}
 \usepackage[colorlinks = true,
-            linkcolor = blue,
-            urlcolor  = blue,
-            citecolor = blue,
-            anchorcolor = blue]{hyperref}
+            linkcolor = black,
+            urlcolor  = black,
+            citecolor = black,
+            anchorcolor = black]{hyperref}
 
 \usepackage[english]{babel}
 \usepackage[utf8x]{inputenc}
@@ -33,11 +33,11 @@
 \pagestyle{empty}           % No pagenumbers/headers/footers
 
 % Color definitions
-\definecolor{date}{HTML}{666666} 
-\definecolor{primary}{HTML}{191919} 
-\definecolor{headings}{HTML}{025178}
-\definecolor{subheadings}{HTML}{002648}
-
+\definecolor{date}{HTML}{000000} 
+\definecolor{primary}{HTML}{000000} 
+\definecolor{headings}{HTML}{000000}
+\definecolor{subheadings}{HTML}{000000}
+\definecolor{links}{HTML}{5D8AA8}
 
 %%% Custom sectioning (sectsty package)
 %%% ------------------------------------------------------------
@@ -53,9 +53,8 @@
 \newcommand{\sepspace}{\vspace*{1em}}		% Vertical space macro
 
 \newcommand{\MyName}[1]{ % Name 
-		 \huge \usefont{OT1}{phv}{b}{n} \hfill \textcolor{headings}{#1}
+		 \huge \usefont{OT1}{phv}{b}{n}\textcolor{headings}{#1}
 		\par \normalsize \normalfont}
-
 
 \newcommand{\NewPart}[1]{\section*{ \color{headings} \uppercase{#1}}}
 
