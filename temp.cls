@@ -73,7 +73,7 @@
         
 \newcommand{\workEntry}[5]{		     
     	\begin{minipage}{0.08\linewidth}
- 		\includegraphics[width=1.2cm] {#5}
+ 		\includegraphics[width=1.8cm] {#5}
 		\end{minipage}%                 
         \begin{minipage}{0.84\linewidth}  
     	\noindent {\color{subheadings}\bfseries\uppercase {#1}}, {\color{subheadings}\textit{#3}}  
@@ -86,7 +86,7 @@
         
 \newcommand{\EducationEntry}[5]{     
     	\begin{minipage}{0.08\linewidth}
- 		\includegraphics[width=1.2cm] {#5}
+ 		\includegraphics[width=1.3cm] {#5}
 		\end{minipage}%                    
         \begin{minipage}{0.84\linewidth}  
     	\noindent {\color{subheadings}\bfseries\uppercase {#1}} 
