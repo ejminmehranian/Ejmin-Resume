@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1550966289 "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.tex" "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.pdf" "EjminMehranian" 1550966290
-  "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.aux" 1550966290 720 ca1cfdf2f9c000a7c27a71f571d6b153 ""
-  "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.tex" 1550966288 4673 11056568c9cb2bbfe6892e8cd67838ce ""
+["pdflatex"] 1551036741 "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.tex" "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.pdf" "EjminMehranian" 1551036743
+  "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.aux" 1551036743 720 ca1cfdf2f9c000a7c27a71f571d6b153 ""
+  "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.tex" 1551036741 4757 01508c879ce743b69e76b6f6287006e2 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc" 1480098668 3294 a5b3bfab503121e0ee00f4c03e6030bf ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-02.enc" 1480098668 3713 0bfaecfd797b8ac7b45962588f782267 ""
@@ -137,9 +137,9 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "EjminMehranian.aux" 1550966290 720 ca1cfdf2f9c000a7c27a71f571d6b153 ""
-  "EjminMehranian.out" 1550966289 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "EjminMehranian.tex" 1550966288 4673 11056568c9cb2bbfe6892e8cd67838ce ""
+  "EjminMehranian.aux" 1551036743 720 ca1cfdf2f9c000a7c27a71f571d6b153 ""
+  "EjminMehranian.out" 1551036742 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "EjminMehranian.tex" 1551036741 4757 01508c879ce743b69e76b6f6287006e2 ""
   "IMG/ads.png" 1546595748 166465 117df1fa56bbe5ef66bae69e7035ab0c ""
   "IMG/autograder.png" 1546595748 16718 4d62df634f1e9f557d0dff649195bcad ""
   "IMG/ax.png" 1550965011 303780 2ece837d1f2334a65d5f3f2f2aeb5f4d ""
@@ -148,9 +148,9 @@
   "IMG/ucsd.png" 1546595748 319877 6dbb2c04a11b489aca29b1f9828b465f ""
   "temp.cls" 1546595748 3645 d6424b88a2e33d510e1c3ce8a1a50aae ""
   (generated)
-  "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.pdf"
   "EjminMehranian.out"
-  "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.log"
-  "EjminMehranian.pdf"
   "EjminMehranian.aux"
   "EjminMehranian.log"
+  "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.pdf"
+  "/Users/ejmin.mehranian@ibm.com/Desktop/Ejmin-Resume/EjminMehranian.log"
+  "EjminMehranian.pdf"
