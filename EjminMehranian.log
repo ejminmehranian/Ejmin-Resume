@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  24 FEB 2019 11:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  4 APR 2019 22:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -759,30 +759,30 @@ Overfull \hbox (9.104pt too wide) in paragraph at lines 57--57
 [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./IMG/u
 csd.png> <./IMG/ax.png> <./IMG/ibm.png> <./IMG/ads.png> <./IMG/newlook.png (PNG
  copy)> <./IMG/autograder.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
  (./EjminMehranian.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
 Package rerunfilecheck Info: File `EjminMehranian.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 68.
  ) 
 Here is how much of TeX's memory you used:
- 12253 strings out of 492649
- 197724 string characters out of 6129622
+ 12247 strings out of 492649
+ 197598 string characters out of 6129622
  434746 words of memory out of 5000000
  15801 multiletter control sequences out of 15000+600000
- 57069 words of font info for 146 fonts, out of 8000000 for 9000
+ 56554 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,6n,53p,9140b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-02.enc}
@@ -796,7 +796,7 @@ al/texlive/2018/texmf-dist/fonts/type1/public/opensans/OpenSans-Italic.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/public/opensans/OpenSans-Regular.pf
 b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on EjminMehranian.pdf (1 page, 778547 bytes).
+Output written on EjminMehranian.pdf (1 page, 778597 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
