@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  29 AUG 2019 14:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  29 AUG 2019 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -740,30 +740,40 @@ Overfull \hbox (9.104pt too wide) in paragraph at lines 33--33
 <IMG/ibm.png, id=10, 311.1625pt x 278.03876pt>
 File: IMG/ibm.png Graphic file (type png)
 <use IMG/ibm.png>
-Package pdftex.def Info: IMG/ibm.png  used on input line 42.
+Package pdftex.def Info: IMG/ibm.png  used on input line 41.
 (pdftex.def)             Requested size: 51.21504pt x 45.75986pt.
 
-Overfull \hbox (9.104pt too wide) in paragraph at lines 42--42
+Overfull \hbox (9.104pt too wide) in paragraph at lines 41--41
 [][] 
  []
 
-<IMG/ads.png, id=11, 144.54pt x 144.54pt>
+<IMG/empty.png, id=11, 706.64pt x 397.485pt>
+File: IMG/empty.png Graphic file (type png)
+<use IMG/empty.png>
+Package pdftex.def Info: IMG/empty.png  used on input line 46.
+(pdftex.def)             Requested size: 51.21504pt x 28.80327pt.
+
+Overfull \hbox (9.104pt too wide) in paragraph at lines 46--46
+[][] 
+ []
+
+<IMG/ads.png, id=12, 144.54pt x 144.54pt>
 File: IMG/ads.png Graphic file (type png)
 <use IMG/ads.png>
-Package pdftex.def Info: IMG/ads.png  used on input line 48.
+Package pdftex.def Info: IMG/ads.png  used on input line 51.
 (pdftex.def)             Requested size: 51.21504pt x 51.2139pt.
 
-Overfull \hbox (9.104pt too wide) in paragraph at lines 48--48
+Overfull \hbox (9.104pt too wide) in paragraph at lines 51--51
 [][] 
  []
 
-<IMG/autograder.png, id=13, 131.49126pt x 112.42pt>
+<IMG/autograder.png, id=14, 131.49126pt x 112.42pt>
 File: IMG/autograder.png Graphic file (type png)
 <use IMG/autograder.png>
-Package pdftex.def Info: IMG/autograder.png  used on input line 54.
+Package pdftex.def Info: IMG/autograder.png  used on input line 57.
 (pdftex.def)             Requested size: 51.21504pt x 43.787pt.
 
-Overfull \hbox (9.104pt too wide) in paragraph at lines 54--54
+Overfull \hbox (9.104pt too wide) in paragraph at lines 57--57
 [][] 
  []
 
@@ -773,64 +783,61 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 56.
+ne 60.
 
-File: IMG/autograder.png Graphic file (type png)
-<use IMG/autograder.png>
-Package pdftex.def Info: IMG/autograder.png  used on input line 60.
-(pdftex.def)             Requested size: 51.21504pt x 43.787pt.
-
-Overfull \hbox (9.104pt too wide) in paragraph at lines 60--60
-[][] 
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./IMG/u
-csd.png> <./IMG/ax.png> <./IMG/ibm.png> <./IMG/ads.png> <./IMG/autograder.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+csd.png> <./IMG/ax.png> <./IMG/ibm.png> <./IMG/empty.png> <./IMG/ads.png> <./IM
+G/autograder.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
  (./EjminMehranian.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `EjminMehranian.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
- ) 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 64 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 12589 strings out of 492616
- 203259 string characters out of 6129482
+ 12593 strings out of 492616
+ 203334 string characters out of 6129482
  462166 words of memory out of 5000000
- 16175 multiletter control sequences out of 15000+600000
+ 16179 multiletter control sequences out of 15000+600000
  56554 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,6n,53p,9140b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/opensans/opensans-03.enc}
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/opensans/opensans-04.enc}{/
-usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}{/us
-r/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive
-/2019/texmf-dist/fonts/type1/public/opensans/OpenSans-Bold.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/public/opensans/OpenSans-BoldItalic.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/public/opensans/OpenSans-Italic.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/opensans/OpenSans-Regular.
-pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on EjminMehranian.pdf (1 page, 773675 bytes).
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/opensans/op
+ensans-03.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/opensans/open
+sans-04.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/opensans/opensa
+ns-01.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/opensans/OpenSans-Bold.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/opensans/OpenSans-BoldItal
+ic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/opensans/OpenSans
+-Italic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/opensans/Ope
+nSans-Regular.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/u
+hvb8a.pfb>
+Output written on EjminMehranian.pdf (1 page, 778540 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
- 40986 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 40991 words of extra memory for PDF output out of 42996 (max. 10000000)
 
-/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on /Users/ejmin/Desktop/Ejmin-Resume/EjminMehranian.pdf (1 page, 773675 bytes).
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
+Output written on /Users/ejmin/Desktop/Ejmin-Resume/EjminMehranian.pdf (1 page, 778540 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
- 40986 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 40991 words of extra memory for PDF output out of 42996 (max. 10000000)
 
